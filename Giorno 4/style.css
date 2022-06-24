@@ -1,0 +1,21 @@
+#menu{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+#barra{
+    display: none;
+    background: violet;
+    max-width: 5em;
+    line-height: 1.5rem;
+    list-style: none;
+}
+.canc{
+    text-decoration: line-through;
+    color: grey;
+}
